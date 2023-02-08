@@ -1,6 +1,6 @@
 ## Legend:
-  - Emoji's 1️⃣, 2️⃣, 3️⃣ refer to the lesson in which the application was developed
-  - '➡️' refers to the corresponding project that was developed, ordered according to progression throughout the unit
+  - Lessons 1️⃣, 2️⃣, 3️⃣ refer to the lesson in which the application was developed respective to my colledges weekly lessons
+  - '➡️' refers to the corresponding project that was developed, ordered according to my progression throughout the coursework
   - '🌐' indicates the project and its corresponding pseudocode documentation
   
 ## Lesson 1:

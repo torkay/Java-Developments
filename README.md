@@ -1,3 +1,4 @@
+# Java Development
 ## Legend:
   - Lessons 1️⃣, 2️⃣, 3️⃣ refer to the lesson in which the application was developed respective to my colledges weekly lessons
   - '➡️' refers to the corresponding project that was developed, ordered according to my progression throughout the coursework

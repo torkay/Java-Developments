@@ -35,3 +35,7 @@
     
   ➡️ Project 2: Reverse Guessing Game
     • **Brief:** This code is a Java implementation of a number guessing game where a computer randomly generates a number within a given range, and the player provides input if the number is too high, too low, or correct
+
+## Lesson 4:
+  ➡️ Project 1: Temperature Calculator With Swift Graphical User Interface
+    • **Brief:** Similar to the previous console-based temperature calculator made in java, this calculator utilises JavaX's swift library. The window also utilises the awt library to find the user's resolution to incorperate a window-centric smart feature. The design is brief and understandable with side-by-side buttons and instructive titles
